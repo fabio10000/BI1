@@ -1,256 +1,4 @@
 Année,Grande région,Formation,Homme,Femme
-2002,"Région lémanique (VD, VS, GE)","Haute école universitaire (UNI, EPF)",10306,7659
-2002,"Région lémanique (VD, VS, GE)","Haute école spécialisée (HES), HEP",8305,6944
-2002,"Région lémanique (VD, VS, GE)","Formation prof. supérieure, écoles sup.",7425,6250
-2002,"Région lémanique (VD, VS, GE)",Brevet d'enseignement,5863,5758
-2002,"Région lémanique (VD, VS, GE)",Maturité,6970,6039
-2002,"Région lémanique (VD, VS, GE)",Apprentissage complet (CFC),5568,4933
-2002,"Région lémanique (VD, VS, GE)",Formation acquise en entreprise,4938,3981
-2002,"Région lémanique (VD, VS, GE)",Sans formation prof. complète,4420,3685
-2002,"Région lémanique (VD, VS, GE)",Autres formations complètes,5048,4591
-2002,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école universitaire (UNI, EPF)",9492,7429
-2002,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école spécialisée (HES), HEP",8354,6695
-2002,"Espace Mittelland (BE, FR, SO, NE, JU)","Formation prof. supérieure, écoles sup.",7301,6348
-2002,"Espace Mittelland (BE, FR, SO, NE, JU)",Brevet d'enseignement,6388,5513
-2002,"Espace Mittelland (BE, FR, SO, NE, JU)",Maturité,6421,4767
-2002,"Espace Mittelland (BE, FR, SO, NE, JU)",Apprentissage complet (CFC),5460,4567
-2002,"Espace Mittelland (BE, FR, SO, NE, JU)",Formation acquise en entreprise,5043,3876
-2002,"Espace Mittelland (BE, FR, SO, NE, JU)",Sans formation prof. complète,4553,3810
-2002,"Espace Mittelland (BE, FR, SO, NE, JU)",Autres formations complètes,4698,3940
-2002,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école universitaire (UNI, EPF)",9750,8161
-2002,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école spécialisée (HES), HEP",8682,7008
-2002,"Suisse du Nord-Ouest (BS, BL, AG)","Formation prof. supérieure, écoles sup.",7645,6460
-2002,"Suisse du Nord-Ouest (BS, BL, AG)",Brevet d'enseignement,5525,5026
-2002,"Suisse du Nord-Ouest (BS, BL, AG)",Maturité,7778,5813
-2002,"Suisse du Nord-Ouest (BS, BL, AG)",Apprentissage complet (CFC),5767,4874
-2002,"Suisse du Nord-Ouest (BS, BL, AG)",Formation acquise en entreprise,5138,4201
-2002,"Suisse du Nord-Ouest (BS, BL, AG)",Sans formation prof. complète,4667,3804
-2002,"Suisse du Nord-Ouest (BS, BL, AG)",Autres formations complètes,5356,4140
-2002,Zurich (ZH),"Haute école universitaire (UNI, EPF)",10000,8100
-2002,Zurich (ZH),"Haute école spécialisée (HES), HEP",9492,7644
-2002,Zurich (ZH),"Formation prof. supérieure, écoles sup.",8183,6937
-2002,Zurich (ZH),Brevet d'enseignement,7003,6754
-2002,Zurich (ZH),Maturité,7044,5744
-2002,Zurich (ZH),Apprentissage complet (CFC),6181,5284
-2002,Zurich (ZH),Formation acquise en entreprise,5108,3766
-2002,Zurich (ZH),Sans formation prof. complète,4929,4109
-2002,Zurich (ZH),Autres formations complètes,5220,3945
-2002,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école universitaire (UNI, EPF)",10065,7500
-2002,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école spécialisée (HES), HEP",8568,6870
-2002,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Formation prof. supérieure, écoles sup.",7271,5762
-2002,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Brevet d'enseignement,5634,5130
-2002,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Maturité,6067,4500
-2002,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Apprentissage complet (CFC),5499,4434
-2002,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Formation acquise en entreprise,5043,3900
-2002,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Sans formation prof. complète,4624,3629
-2002,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Autres formations complètes,4701,3576
-2002,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école universitaire (UNI, EPF)",9974,7871
-2002,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école spécialisée (HES), HEP",8938,7019
-2002,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Formation prof. supérieure, écoles sup.",7451,6300
-2002,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Brevet d'enseignement,6951,5512
-2002,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Maturité,6244,4409
-2002,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Apprentissage complet (CFC),5542,4658
-2002,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Formation acquise en entreprise,5027,3848
-2002,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Sans formation prof. complète,4662,3625
-2002,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Autres formations complètes,5413,4167
-2002,Tessin (TI),"Haute école universitaire (UNI, EPF)",8542,6485
-2002,Tessin (TI),"Haute école spécialisée (HES), HEP",7222,6117
-2002,Tessin (TI),"Formation prof. supérieure, écoles sup.",6136,4894
-2002,Tessin (TI),Brevet d'enseignement,5354,5554
-2002,Tessin (TI),Maturité,5943,4697
-2002,Tessin (TI),Apprentissage complet (CFC),5048,4334
-2002,Tessin (TI),Formation acquise en entreprise,4550,3088
-2002,Tessin (TI),Sans formation prof. complète,4081,3158
-2002,Tessin (TI),Autres formations complètes,4672,3414
-2004,"Région lémanique (VD, VS, GE)","Haute école universitaire (UNI, EPF)",10333,7875
-2004,"Région lémanique (VD, VS, GE)","Haute école spécialisée (HES), HEP",8575,7179
-2004,"Région lémanique (VD, VS, GE)","Formation prof. supérieure, écoles sup.",7683,6425
-2004,"Région lémanique (VD, VS, GE)",Brevet d'enseignement,6477,6096
-2004,"Région lémanique (VD, VS, GE)",Maturité,7111,6143
-2004,"Région lémanique (VD, VS, GE)",Apprentissage complet (CFC),5686,5004
-2004,"Région lémanique (VD, VS, GE)",Formation acquise en entreprise,5038,4090
-2004,"Région lémanique (VD, VS, GE)",Sans formation prof. complète,4572,3728
-2004,"Région lémanique (VD, VS, GE)",Autres formations complètes,5007,4063
-2004,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école universitaire (UNI, EPF)",10000,7843
-2004,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école spécialisée (HES), HEP",8659,7040
-2004,"Espace Mittelland (BE, FR, SO, NE, JU)","Formation prof. supérieure, écoles sup.",7499,6392
-2004,"Espace Mittelland (BE, FR, SO, NE, JU)",Brevet d'enseignement,7453,5823
-2004,"Espace Mittelland (BE, FR, SO, NE, JU)",Maturité,6212,4875
-2004,"Espace Mittelland (BE, FR, SO, NE, JU)",Apprentissage complet (CFC),5577,4774
-2004,"Espace Mittelland (BE, FR, SO, NE, JU)",Formation acquise en entreprise,5200,4053
-2004,"Espace Mittelland (BE, FR, SO, NE, JU)",Sans formation prof. complète,4615,3860
-2004,"Espace Mittelland (BE, FR, SO, NE, JU)",Autres formations complètes,4875,3854
-2004,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école universitaire (UNI, EPF)",10080,8612
-2004,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école spécialisée (HES), HEP",8898,7118
-2004,"Suisse du Nord-Ouest (BS, BL, AG)","Formation prof. supérieure, écoles sup.",7692,6712
-2004,"Suisse du Nord-Ouest (BS, BL, AG)",Brevet d'enseignement,6994,6077
-2004,"Suisse du Nord-Ouest (BS, BL, AG)",Maturité,7029,5953
-2004,"Suisse du Nord-Ouest (BS, BL, AG)",Apprentissage complet (CFC),5843,5053
-2004,"Suisse du Nord-Ouest (BS, BL, AG)",Formation acquise en entreprise,5357,4275
-2004,"Suisse du Nord-Ouest (BS, BL, AG)",Sans formation prof. complète,4745,3857
-2004,"Suisse du Nord-Ouest (BS, BL, AG)",Autres formations complètes,5159,4124
-2004,Zurich (ZH),"Haute école universitaire (UNI, EPF)",10317,8095
-2004,Zurich (ZH),"Haute école spécialisée (HES), HEP",9451,7480
-2004,Zurich (ZH),"Formation prof. supérieure, écoles sup.",8530,7007
-2004,Zurich (ZH),Brevet d'enseignement,7967,6571
-2004,Zurich (ZH),Maturité,7503,5688
-2004,Zurich (ZH),Apprentissage complet (CFC),6154,5222
-2004,Zurich (ZH),Formation acquise en entreprise,5205,4101
-2004,Zurich (ZH),Sans formation prof. complète,4841,4022
-2004,Zurich (ZH),Autres formations complètes,5069,4118
-2004,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école universitaire (UNI, EPF)",9842,7583
-2004,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école spécialisée (HES), HEP",8575,6950
-2004,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Formation prof. supérieure, écoles sup.",7465,6207
-2004,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Brevet d'enseignement,7093,6557
-2004,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Maturité,6128,4842
-2004,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Apprentissage complet (CFC),5557,4534
-2004,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Formation acquise en entreprise,5133,3967
-2004,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Sans formation prof. complète,4679,3673
-2004,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Autres formations complètes,4708,3674
-2004,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école universitaire (UNI, EPF)",10776,8309
-2004,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école spécialisée (HES), HEP",8976,7279
-2004,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Formation prof. supérieure, écoles sup.",7641,6692
-2004,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Brevet d'enseignement,7600,6416
-2004,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Maturité,6242,4824
-2004,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Apprentissage complet (CFC),5595,4744
-2004,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Formation acquise en entreprise,5395,3990
-2004,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Sans formation prof. complète,4685,3766
-2004,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Autres formations complètes,4712,3568
-2004,Tessin (TI),"Haute école universitaire (UNI, EPF)",9000,6266
-2004,Tessin (TI),"Haute école spécialisée (HES), HEP",7342,6190
-2004,Tessin (TI),"Formation prof. supérieure, écoles sup.",6257,5302
-2004,Tessin (TI),Brevet d'enseignement,6283,5329
-2004,Tessin (TI),Maturité,5989,4834
-2004,Tessin (TI),Apprentissage complet (CFC),5189,4550
-2004,Tessin (TI),Formation acquise en entreprise,4694,3368
-2004,Tessin (TI),Sans formation prof. complète,4243,3034
-2004,Tessin (TI),Autres formations complètes,4746,3568
-2006,"Région lémanique (VD, VS, GE)","Haute école universitaire (UNI, EPF)",10678,8201
-2006,"Région lémanique (VD, VS, GE)","Haute école spécialisée (HES), HEP",8720,7430
-2006,"Région lémanique (VD, VS, GE)","Formation prof. supérieure, écoles sup.",7891,6534
-2006,"Région lémanique (VD, VS, GE)",Brevet d'enseignement,6076,5734
-2006,"Région lémanique (VD, VS, GE)",Maturité,7278,6270
-2006,"Région lémanique (VD, VS, GE)",Apprentissage complet (CFC),5744,5108
-2006,"Région lémanique (VD, VS, GE)",Formation acquise en entreprise,5202,4198
-2006,"Région lémanique (VD, VS, GE)",Sans formation prof. complète,4623,3767
-2006,"Région lémanique (VD, VS, GE)",Autres formations complètes,5565,4976
-2006,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école universitaire (UNI, EPF)",10196,7908
-2006,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école spécialisée (HES), HEP",8883,6973
-2006,"Espace Mittelland (BE, FR, SO, NE, JU)","Formation prof. supérieure, écoles sup.",7749,6763
-2006,"Espace Mittelland (BE, FR, SO, NE, JU)",Brevet d'enseignement,7390,5946
-2006,"Espace Mittelland (BE, FR, SO, NE, JU)",Maturité,6684,5232
-2006,"Espace Mittelland (BE, FR, SO, NE, JU)",Apprentissage complet (CFC),5675,4916
-2006,"Espace Mittelland (BE, FR, SO, NE, JU)",Formation acquise en entreprise,5395,4286
-2006,"Espace Mittelland (BE, FR, SO, NE, JU)",Sans formation prof. complète,4739,3939
-2006,"Espace Mittelland (BE, FR, SO, NE, JU)",Autres formations complètes,5053,4052
-2006,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école universitaire (UNI, EPF)",10943,8938
-2006,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école spécialisée (HES), HEP",9411,7447
-2006,"Suisse du Nord-Ouest (BS, BL, AG)","Formation prof. supérieure, écoles sup.",8157,6861
-2006,"Suisse du Nord-Ouest (BS, BL, AG)",Brevet d'enseignement,7275,6667
-2006,"Suisse du Nord-Ouest (BS, BL, AG)",Maturité,6893,5871
-2006,"Suisse du Nord-Ouest (BS, BL, AG)",Apprentissage complet (CFC),5960,5146
-2006,"Suisse du Nord-Ouest (BS, BL, AG)",Formation acquise en entreprise,5703,4825
-2006,"Suisse du Nord-Ouest (BS, BL, AG)",Sans formation prof. complète,4863,3984
-2006,"Suisse du Nord-Ouest (BS, BL, AG)",Autres formations complètes,5276,4334
-2006,Zurich (ZH),"Haute école universitaire (UNI, EPF)",10755,8342
-2006,Zurich (ZH),"Haute école spécialisée (HES), HEP",9772,7620
-2006,Zurich (ZH),"Formation prof. supérieure, écoles sup.",8767,6933
-2006,Zurich (ZH),Brevet d'enseignement,7813,6184
-2006,Zurich (ZH),Maturité,8441,6385
-2006,Zurich (ZH),Apprentissage complet (CFC),6190,5237
-2006,Zurich (ZH),Formation acquise en entreprise,5525,4332
-2006,Zurich (ZH),Sans formation prof. complète,4952,4110
-2006,Zurich (ZH),Autres formations complètes,5207,4361
-2006,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école universitaire (UNI, EPF)",9997,7642
-2006,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école spécialisée (HES), HEP",8784,7039
-2006,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Formation prof. supérieure, écoles sup.",7643,6361
-2006,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Brevet d'enseignement,6658,6240
-2006,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Maturité,6283,4803
-2006,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Apprentissage complet (CFC),5608,4608
-2006,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Formation acquise en entreprise,5312,4221
-2006,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Sans formation prof. complète,4752,3809
-2006,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Autres formations complètes,4850,3756
-2006,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école universitaire (UNI, EPF)",11285,8022
-2006,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école spécialisée (HES), HEP",9342,8126
-2006,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Formation prof. supérieure, écoles sup.",7927,6829
-2006,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Brevet d'enseignement,6653,6143
-2006,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Maturité,6190,5244
-2006,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Apprentissage complet (CFC),5641,4815
-2006,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Formation acquise en entreprise,5452,4073
-2006,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Sans formation prof. complète,4763,3828
-2006,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Autres formations complètes,4627,4018
-2006,Tessin (TI),"Haute école universitaire (UNI, EPF)",8950,6500
-2006,Tessin (TI),"Haute école spécialisée (HES), HEP",7433,5921
-2006,Tessin (TI),"Formation prof. supérieure, écoles sup.",6458,5304
-2006,Tessin (TI),Brevet d'enseignement,5895,5460
-2006,Tessin (TI),Maturité,5796,4830
-2006,Tessin (TI),Apprentissage complet (CFC),5260,4662
-2006,Tessin (TI),Formation acquise en entreprise,4737,3405
-2006,Tessin (TI),Sans formation prof. complète,4394,3203
-2006,Tessin (TI),Autres formations complètes,4812,3677
-2008,"Région lémanique (VD, VS, GE)","Haute école universitaire (UNI, EPF)",11589,8405
-2008,"Région lémanique (VD, VS, GE)","Haute école spécialisée (HES), HEP",9341,7596
-2008,"Région lémanique (VD, VS, GE)","Formation prof. supérieure, écoles sup.",8125,6728
-2008,"Région lémanique (VD, VS, GE)",Brevet d'enseignement,6262,6007
-2008,"Région lémanique (VD, VS, GE)",Maturité,7333,6229
-2008,"Région lémanique (VD, VS, GE)",Apprentissage complet (CFC),5956,5294
-2008,"Région lémanique (VD, VS, GE)",Formation acquise en entreprise,5357,4294
-2008,"Région lémanique (VD, VS, GE)",Sans formation prof. complète,4765,3873
-2008,"Région lémanique (VD, VS, GE)",Autres formations complètes,6157,5379
-2008,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école universitaire (UNI, EPF)",10649,8125
-2008,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école spécialisée (HES), HEP",9096,7302
-2008,"Espace Mittelland (BE, FR, SO, NE, JU)","Formation prof. supérieure, écoles sup.",7973,6804
-2008,"Espace Mittelland (BE, FR, SO, NE, JU)",Brevet d'enseignement,6552,6194
-2008,"Espace Mittelland (BE, FR, SO, NE, JU)",Maturité,6404,5308
-2008,"Espace Mittelland (BE, FR, SO, NE, JU)",Apprentissage complet (CFC),5816,5073
-2008,"Espace Mittelland (BE, FR, SO, NE, JU)",Formation acquise en entreprise,5558,4333
-2008,"Espace Mittelland (BE, FR, SO, NE, JU)",Sans formation prof. complète,4913,4196
-2008,"Espace Mittelland (BE, FR, SO, NE, JU)",Autres formations complètes,5465,4154
-2008,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école universitaire (UNI, EPF)",11260,9307
-2008,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école spécialisée (HES), HEP",9544,7240
-2008,"Suisse du Nord-Ouest (BS, BL, AG)","Formation prof. supérieure, écoles sup.",8299,6953
-2008,"Suisse du Nord-Ouest (BS, BL, AG)",Brevet d'enseignement,7100,6810
-2008,"Suisse du Nord-Ouest (BS, BL, AG)",Maturité,7030,6032
-2008,"Suisse du Nord-Ouest (BS, BL, AG)",Apprentissage complet (CFC),6075,5234
-2008,"Suisse du Nord-Ouest (BS, BL, AG)",Formation acquise en entreprise,5963,4667
-2008,"Suisse du Nord-Ouest (BS, BL, AG)",Sans formation prof. complète,4991,4159
-2008,"Suisse du Nord-Ouest (BS, BL, AG)",Autres formations complètes,6224,4715
-2008,Zurich (ZH),"Haute école universitaire (UNI, EPF)",11413,8708
-2008,Zurich (ZH),"Haute école spécialisée (HES), HEP",9989,7805
-2008,Zurich (ZH),"Formation prof. supérieure, écoles sup.",9067,7422
-2008,Zurich (ZH),Brevet d'enseignement,8513,7329
-2008,Zurich (ZH),Maturité,8000,5777
-2008,Zurich (ZH),Apprentissage complet (CFC),6286,5231
-2008,Zurich (ZH),Formation acquise en entreprise,5701,4555
-2008,Zurich (ZH),Sans formation prof. complète,4891,4227
-2008,Zurich (ZH),Autres formations complètes,5229,4195
-2008,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école universitaire (UNI, EPF)",10317,7635
-2008,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école spécialisée (HES), HEP",8923,6686
-2008,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Formation prof. supérieure, écoles sup.",7831,6485
-2008,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Brevet d'enseignement,6645,6818
-2008,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Maturité,5917,4974
-2008,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Apprentissage complet (CFC),5686,4729
-2008,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Formation acquise en entreprise,5300,4165
-2008,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Sans formation prof. complète,4911,3871
-2008,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Autres formations complètes,5243,4027
-2008,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école universitaire (UNI, EPF)",11688,8636
-2008,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école spécialisée (HES), HEP",9500,7913
-2008,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Formation prof. supérieure, écoles sup.",8048,6969
-2008,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Brevet d'enseignement,7244,6283
-2008,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Maturité,6551,5443
-2008,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Apprentissage complet (CFC),5750,4921
-2008,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Formation acquise en entreprise,5633,4331
-2008,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Sans formation prof. complète,4914,3971
-2008,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Autres formations complètes,5020,4168
-2008,Tessin (TI),"Haute école universitaire (UNI, EPF)",8920,6348
-2008,Tessin (TI),"Haute école spécialisée (HES), HEP",7531,6382
-2008,Tessin (TI),"Formation prof. supérieure, écoles sup.",6568,5529
-2008,Tessin (TI),Brevet d'enseignement,5354,4984
-2008,Tessin (TI),Maturité,5958,4977
-2008,Tessin (TI),Apprentissage complet (CFC),5417,4641
-2008,Tessin (TI),Formation acquise en entreprise,4895,3526
-2008,Tessin (TI),Sans formation prof. complète,4356,3358
-2008,Tessin (TI),Autres formations complètes,5042,3842
 2010,"Région lémanique (VD, VS, GE)","Haute école universitaire (UNI, EPF)",11413,8694
 2010,"Région lémanique (VD, VS, GE)","Haute école spécialisée (HES), HEP",9210,7529
 2010,"Région lémanique (VD, VS, GE)","Formation prof. supérieure, écoles sup.",7976,6965
@@ -258,8 +6,8 @@ Année,Grande région,Formation,Homme,Femme
 2010,"Région lémanique (VD, VS, GE)",Maturité,7576,6387
 2010,"Région lémanique (VD, VS, GE)",Apprentissage complet (CFC),6001,5365
 2010,"Région lémanique (VD, VS, GE)",Formation acquise en entreprise,5457,4298
-2010,"Région lémanique (VD, VS, GE)",Sans formation prof. complète,4859,4027
-2010,"Région lémanique (VD, VS, GE)",Autres formations complètes,6285,5758
+2010,"Région lémanique (VD, VS, GE)",Sans formation prof. compléte,4859,4027
+2010,"Région lémanique (VD, VS, GE)",Autres formations complétes,6285,5758
 2010,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école universitaire (UNI, EPF)",10783,8270
 2010,"Espace Mittelland (BE, FR, SO, NE, JU)","Haute école spécialisée (HES), HEP",9481,7333
 2010,"Espace Mittelland (BE, FR, SO, NE, JU)","Formation prof. supérieure, écoles sup.",8171,6850
@@ -267,8 +15,8 @@ Année,Grande région,Formation,Homme,Femme
 2010,"Espace Mittelland (BE, FR, SO, NE, JU)",Maturité,6717,5479
 2010,"Espace Mittelland (BE, FR, SO, NE, JU)",Apprentissage complet (CFC),5958,5209
 2010,"Espace Mittelland (BE, FR, SO, NE, JU)",Formation acquise en entreprise,5637,4507
-2010,"Espace Mittelland (BE, FR, SO, NE, JU)",Sans formation prof. complète,5055,4329
-2010,"Espace Mittelland (BE, FR, SO, NE, JU)",Autres formations complètes,6584,5281
+2010,"Espace Mittelland (BE, FR, SO, NE, JU)",Sans formation prof. compléte,5055,4329
+2010,"Espace Mittelland (BE, FR, SO, NE, JU)",Autres formations complétes,6584,5281
 2010,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école universitaire (UNI, EPF)",11660,9334
 2010,"Suisse du Nord-Ouest (BS, BL, AG)","Haute école spécialisée (HES), HEP",9558,7475
 2010,"Suisse du Nord-Ouest (BS, BL, AG)","Formation prof. supérieure, écoles sup.",8639,7222
@@ -276,8 +24,8 @@ Année,Grande région,Formation,Homme,Femme
 2010,"Suisse du Nord-Ouest (BS, BL, AG)",Maturité,6951,5881
 2010,"Suisse du Nord-Ouest (BS, BL, AG)",Apprentissage complet (CFC),6118,5312
 2010,"Suisse du Nord-Ouest (BS, BL, AG)",Formation acquise en entreprise,5890,4603
-2010,"Suisse du Nord-Ouest (BS, BL, AG)",Sans formation prof. complète,5052,4128
-2010,"Suisse du Nord-Ouest (BS, BL, AG)",Autres formations complètes,5958,4596
+2010,"Suisse du Nord-Ouest (BS, BL, AG)",Sans formation prof. compléte,5052,4128
+2010,"Suisse du Nord-Ouest (BS, BL, AG)",Autres formations complétes,5958,4596
 2010,Zurich (ZH),"Haute école universitaire (UNI, EPF)",11666,8826
 2010,Zurich (ZH),"Haute école spécialisée (HES), HEP",10147,7814
 2010,Zurich (ZH),"Formation prof. supérieure, écoles sup.",9296,7367
@@ -285,8 +33,8 @@ Année,Grande région,Formation,Homme,Femme
 2010,Zurich (ZH),Maturité,8028,6300
 2010,Zurich (ZH),Apprentissage complet (CFC),6365,5285
 2010,Zurich (ZH),Formation acquise en entreprise,5802,4404
-2010,Zurich (ZH),Sans formation prof. complète,5060,4307
-2010,Zurich (ZH),Autres formations complètes,6150,4540
+2010,Zurich (ZH),Sans formation prof. compléte,5060,4307
+2010,Zurich (ZH),Autres formations complétes,6150,4540
 2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école universitaire (UNI, EPF)",10524,7888
 2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école spécialisée (HES), HEP",8811,7046
 2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Formation prof. supérieure, écoles sup.",7881,6556
@@ -294,8 +42,8 @@ Année,Grande région,Formation,Homme,Femme
 2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Maturité,6064,5200
 2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Apprentissage complet (CFC),5741,4862
 2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Formation acquise en entreprise,5530,4231
-2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Sans formation prof. complète,5029,3950
-2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Autres formations complètes,5317,4049
+2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Sans formation prof. compléte,5029,3950
+2010,"Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",Autres formations complétes,5317,4049
 2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école universitaire (UNI, EPF)",12107,8730
 2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école spécialisée (HES), HEP",9808,7851
 2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Formation prof. supérieure, écoles sup.",8324,6958
@@ -303,8 +51,8 @@ Année,Grande région,Formation,Homme,Femme
 2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Maturité,6659,5417
 2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Apprentissage complet (CFC),5930,5048
 2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Formation acquise en entreprise,5787,4390
-2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Sans formation prof. complète,5051,4180
-2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Autres formations complètes,6507,4574
+2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Sans formation prof. compléte,5051,4180
+2010,"Suisse centrale (LU, UR, SZ, OW, NW, ZG)",Autres formations complétes,6507,4574
 2010,Tessin (TI),"Haute école universitaire (UNI, EPF)",8667,6209
 2010,Tessin (TI),"Haute école spécialisée (HES), HEP",7436,6364
 2010,Tessin (TI),"Formation prof. supérieure, écoles sup.",6293,4876
@@ -312,5 +60,5 @@ Année,Grande région,Formation,Homme,Femme
 2010,Tessin (TI),Maturité,5708,4642
 2010,Tessin (TI),Apprentissage complet (CFC),5571,4890
 2010,Tessin (TI),Formation acquise en entreprise,5069,3475
-2010,Tessin (TI),Sans formation prof. complète,4479,3311
-2010,Tessin (TI),Autres formations complètes,4983,3935
+2010,Tessin (TI),Sans formation prof. compléte,4479,3311
+2010,Tessin (TI),Autres formations complétes,4983,3935
