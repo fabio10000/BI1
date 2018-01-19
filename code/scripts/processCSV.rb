@@ -6,6 +6,7 @@ class ProcessCSV
     @columns_to_remove = Array.new
     @regexes = Array.new
     @csv_array = Array.new
+    @replacements = Array.new
   end
   def changeFileName(file_name)
     @file_name = file_name
@@ -19,6 +20,9 @@ class ProcessCSV
   def addRegex(columnName, regex)
     @regexes << {column: columnName, regex: regex}
   end
+  def addColumnToRename(columnName, new_column_name)
+    @replacements << [columnName, new_column_name]
+  end
   def generateFile
     getCSVContent
     runRegex
@@ -27,9 +31,6 @@ class ProcessCSV
       csv << @csv_array.headers
       @csv_array.each { |element| csv << element }
     end
-
-    #puts @csv_array.to_csv
-    #puts "processed file(processed_#{@file_name}) generated on data/processed folder"
   end
   private
     def getCSVContent
@@ -43,7 +44,12 @@ class ProcessCSV
         return -1
       end
       #convert csv_text into a csv array with headers
-      @csv_array = CSV.parse(csv_text, headers: true)
+      @csv_array = CSV.parse(csv_text, headers: true, header_converters: lambda do |h|
+          #rename column name
+          @replacements.each{|replacement| h.gsub!(replacement[0], replacement[1]) }
+          return h
+        end
+      )
     end
     def runRegex
       @regexes.each do |regex|
