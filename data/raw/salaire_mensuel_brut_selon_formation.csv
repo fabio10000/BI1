@@ -1,66 +1,66 @@
 "Salaire mensuel brut selon la formation"
 
-"Année","Grande région","Formation","Position professionnelle","Homme Médiane","Femme Médiane"
-"2010","Région lémanique (VD, VS, GE)","Haute école universitaire (UNI, EPF)","Position professionnelle - Total",11413,8694
-"2010","Région lémanique (VD, VS, GE)","Haute école spécialisée (HES), HEP","Position professionnelle - Total",9210,7529
-"2010","Région lémanique (VD, VS, GE)","Formation prof. supérieure, écoles sup.","Position professionnelle - Total",7976,6965
-"2010","Région lémanique (VD, VS, GE)","Brevet d'enseignement","Position professionnelle - Total",6717,5883
-"2010","Région lémanique (VD, VS, GE)","Maturité","Position professionnelle - Total",7576,6387
-"2010","Région lémanique (VD, VS, GE)","Apprentissage complet (CFC)","Position professionnelle - Total",6001,5365
-"2010","Région lémanique (VD, VS, GE)","Formation acquise en entreprise","Position professionnelle - Total",5457,4298
-"2010","Région lémanique (VD, VS, GE)","Sans formation prof. compléte","Position professionnelle - Total",4859,4027
-"2010","Région lémanique (VD, VS, GE)","Autres formations complétes","Position professionnelle - Total",6285,5758
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Haute école universitaire (UNI, EPF)","Position professionnelle - Total",10783,8270
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Haute école spécialisée (HES), HEP","Position professionnelle - Total",9481,7333
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Formation prof. supérieure, écoles sup.","Position professionnelle - Total",8171,6850
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Brevet d'enseignement","Position professionnelle - Total",7185,6474
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Maturité","Position professionnelle - Total",6717,5479
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Apprentissage complet (CFC)","Position professionnelle - Total",5958,5209
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Formation acquise en entreprise","Position professionnelle - Total",5637,4507
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Sans formation prof. compléte","Position professionnelle - Total",5055,4329
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Autres formations complétes","Position professionnelle - Total",6584,5281
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Haute école universitaire (UNI, EPF)","Position professionnelle - Total",11660,9334
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Haute école spécialisée (HES), HEP","Position professionnelle - Total",9558,7475
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Formation prof. supérieure, écoles sup.","Position professionnelle - Total",8639,7222
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Brevet d'enseignement","Position professionnelle - Total",6766( ),6249( )
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Maturité","Position professionnelle - Total",6951,5881
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Apprentissage complet (CFC)","Position professionnelle - Total",6118,5312
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Formation acquise en entreprise","Position professionnelle - Total",5890,4603
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Sans formation prof. compléte","Position professionnelle - Total",5052,4128
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Autres formations complétes","Position professionnelle - Total",5958,4596( )
-"2010","Zurich (ZH)","Haute école universitaire (UNI, EPF)","Position professionnelle - Total",11666,8826
-"2010","Zurich (ZH)","Haute école spécialisée (HES), HEP","Position professionnelle - Total",10147,7814
-"2010","Zurich (ZH)","Formation prof. supérieure, écoles sup.","Position professionnelle - Total",9296,7367
-"2010","Zurich (ZH)","Brevet d'enseignement","Position professionnelle - Total",7296( ),6825
-"2010","Zurich (ZH)","Maturité","Position professionnelle - Total",8028,6300
-"2010","Zurich (ZH)","Apprentissage complet (CFC)","Position professionnelle - Total",6365,5285
-"2010","Zurich (ZH)","Formation acquise en entreprise","Position professionnelle - Total",5802,4404
-"2010","Zurich (ZH)","Sans formation prof. compléte","Position professionnelle - Total",5060,4307
-"2010","Zurich (ZH)","Autres formations complétes","Position professionnelle - Total",6150,4540
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école universitaire (UNI, EPF)","Position professionnelle - Total",10524,7888
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école spécialisée (HES), HEP","Position professionnelle - Total",8811,7046
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Formation prof. supérieure, écoles sup.","Position professionnelle - Total",7881,6556
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Brevet d'enseignement","Position professionnelle - Total",7574( ),6726( )
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Maturité","Position professionnelle - Total",6064,5200
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Apprentissage complet (CFC)","Position professionnelle - Total",5741,4862
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Formation acquise en entreprise","Position professionnelle - Total",5530,4231
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Sans formation prof. compléte","Position professionnelle - Total",5029,3950
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Autres formations complétes","Position professionnelle - Total",5317,4049
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école universitaire (UNI, EPF)","Position professionnelle - Total",12107,8730
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école spécialisée (HES), HEP","Position professionnelle - Total",9808,7851
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Formation prof. supérieure, écoles sup.","Position professionnelle - Total",8324,6958
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Brevet d'enseignement","Position professionnelle - Total",7445( ),6735
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Maturité","Position professionnelle - Total",6659,5417
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Apprentissage complet (CFC)","Position professionnelle - Total",5930,5048
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Formation acquise en entreprise","Position professionnelle - Total",5787,4390
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Sans formation prof. compléte","Position professionnelle - Total",5051,4180
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Autres formations complétes","Position professionnelle - Total",6507,4574
-"2010","Tessin (TI)","Haute école universitaire (UNI, EPF)","Position professionnelle - Total",8667,6209
-"2010","Tessin (TI)","Haute école spécialisée (HES), HEP","Position professionnelle - Total",7436,6364
-"2010","Tessin (TI)","Formation prof. supérieure, écoles sup.","Position professionnelle - Total",6293,4876
-"2010","Tessin (TI)","Brevet d'enseignement","Position professionnelle - Total",6067( ),5395( )
-"2010","Tessin (TI)","Maturité","Position professionnelle - Total",5708,4642
-"2010","Tessin (TI)","Apprentissage complet (CFC)","Position professionnelle - Total",5571,4890
-"2010","Tessin (TI)","Formation acquise en entreprise","Position professionnelle - Total",5069,3475
-"2010","Tessin (TI)","Sans formation prof. compléte","Position professionnelle - Total",4479,3311
-"2010","Tessin (TI)","Autres formations complétes","Position professionnelle - Total",4983,3935
+"Année","Grande région","Formation","Homme Médiane","Femme Médiane"
+"2010","Région lémanique (VD, VS, GE)","Haute école universitaire (UNI, EPF)",11413,8694
+"2010","Région lémanique (VD, VS, GE)","Haute école spécialisée (HES), HEP",9210,7529
+"2010","Région lémanique (VD, VS, GE)","Formation prof. supérieure, écoles sup.",7976,6965
+"2010","Région lémanique (VD, VS, GE)","Brevet d'enseignement",6717,5883
+"2010","Région lémanique (VD, VS, GE)","Maturité",7576,6387
+"2010","Région lémanique (VD, VS, GE)","Apprentissage complet (CFC)",6001,5365
+"2010","Région lémanique (VD, VS, GE)","Formation acquise en entreprise",5457,4298
+"2010","Région lémanique (VD, VS, GE)","Sans formation prof. compléte",4859,4027
+"2010","Région lémanique (VD, VS, GE)","Autres formations complétes",6285,5758
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Haute école universitaire (UNI, EPF)",10783,8270
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Haute école spécialisée (HES), HEP",9481,7333
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Formation prof. supérieure, écoles sup.",8171,6850
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Brevet d'enseignement",7185,6474
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Maturité",6717,5479
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Apprentissage complet (CFC)",5958,5209
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Formation acquise en entreprise",5637,4507
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Sans formation prof. compléte",5055,4329
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Autres formations complétes",6584,5281
+"2010","Suisse du Nord-Ouest (BS, BL, AG)","Haute école universitaire (UNI, EPF)",11660,9334
+"2010","Suisse du Nord-Ouest (BS, BL, AG)","Haute école spécialisée (HES), HEP",9558,7475
+"2010","Suisse du Nord-Ouest (BS, BL, AG)","Formation prof. supérieure, écoles sup.",8639,7222
+"2010","Suisse du Nord-Ouest (BS, BL, AG)","Brevet d'enseignement",6766( ),6249( )
+"2010","Suisse du Nord-Ouest (BS, BL, AG)","Maturité",6951,5881
+"2010","Suisse du Nord-Ouest (BS, BL, AG)","Apprentissage complet (CFC)",6118,5312
+"2010","Suisse du Nord-Ouest (BS, BL, AG)","Formation acquise en entreprise",5890,4603
+"2010","Suisse du Nord-Ouest (BS, BL, AG)","Sans formation prof. compléte",5052,4128
+"2010","Suisse du Nord-Ouest (BS, BL, AG)","Autres formations complétes",5958,4596( )
+"2010","Zurich (ZH)","Haute école universitaire (UNI, EPF)",11666,8826
+"2010","Zurich (ZH)","Haute école spécialisée (HES), HEP",10147,7814
+"2010","Zurich (ZH)","Formation prof. supérieure, écoles sup.",9296,7367
+"2010","Zurich (ZH)","Brevet d'enseignement",7296( ),6825
+"2010","Zurich (ZH)","Maturité",8028,6300
+"2010","Zurich (ZH)","Apprentissage complet (CFC)",6365,5285
+"2010","Zurich (ZH)","Formation acquise en entreprise",5802,4404
+"2010","Zurich (ZH)","Sans formation prof. compléte",5060,4307
+"2010","Zurich (ZH)","Autres formations complétes",6150,4540
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école universitaire (UNI, EPF)",10524,7888
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Haute école spécialisée (HES), HEP",8811,7046
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Formation prof. supérieure, écoles sup.",7881,6556
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Brevet d'enseignement",7574( ),6726( )
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Maturité",6064,5200
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Apprentissage complet (CFC)",5741,4862
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Formation acquise en entreprise",5530,4231
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Sans formation prof. compléte",5029,3950
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Autres formations complétes",5317,4049
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école universitaire (UNI, EPF)",12107,8730
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Haute école spécialisée (HES), HEP",9808,7851
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Formation prof. supérieure, écoles sup.",8324,6958
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Brevet d'enseignement",7445( ),6735
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Maturité",6659,5417
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Apprentissage complet (CFC)",5930,5048
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Formation acquise en entreprise",5787,4390
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Sans formation prof. compléte",5051,4180
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Autres formations complétes",6507,4574
+"2010","Tessin (TI)","Haute école universitaire (UNI, EPF)",8667,6209
+"2010","Tessin (TI)","Haute école spécialisée (HES), HEP",7436,6364
+"2010","Tessin (TI)","Formation prof. supérieure, écoles sup.",6293,4876
+"2010","Tessin (TI)","Brevet d'enseignement",6067( ),5395( )
+"2010","Tessin (TI)","Maturité",5708,4642
+"2010","Tessin (TI)","Apprentissage complet (CFC)",5571,4890
+"2010","Tessin (TI)","Formation acquise en entreprise",5069,3475
+"2010","Tessin (TI)","Sans formation prof. compléte",4479,3311
+"2010","Tessin (TI)","Autres formations complétes",4983,3935

@@ -1,10 +1,10 @@
 "Salaire mensuel brut Suisses/Suissesses et étrangers/étrangères"
 
-"Année","Grande région","Nationalité / Autorisation de résidence","Niveau de qualification","Homme Médiane","Femme Médiane"
-"2010","Région lémanique (VD, VS, GE)","Suisses/étrangers - Total","Niveau de qualification - Total",6374,5579
-"2010","Espace Mittelland (BE, FR, SO, NE, JU)","Suisses/étrangers - Total","Niveau de qualification - Total",6290,5167
-"2010","Suisse du Nord-Ouest (BS, BL, AG)","Suisses/étrangers - Total","Niveau de qualification - Total",6635,5471
-"2010","Zurich (ZH)","Suisses/étrangers - Total","Niveau de qualification - Total",7042,5383
-"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)","Suisses/étrangers - Total","Niveau de qualification - Total",5912,4750
-"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)","Suisses/étrangers - Total","Niveau de qualification - Total",6322,5114
-"2010","Tessin (TI)","Suisses/étrangers - Total","Niveau de qualification - Total",5475,4311
+"Année","Grande région","Homme Médiane","Femme Médiane"
+"2010","Région lémanique (VD, VS, GE)",6374,5579
+"2010","Espace Mittelland (BE, FR, SO, NE, JU)",6290,5167
+"2010","Suisse du Nord-Ouest (BS, BL, AG)",6635,5471
+"2010","Zurich (ZH)",7042,5383
+"2010","Suisse orientale (GL, SH, AR, AI, SG, GR, TG)",5912,4750
+"2010","Suisse centrale (LU, UR, SZ, OW, NW, ZG)",6322,5114
+"2010","Tessin (TI)",5475,4311
